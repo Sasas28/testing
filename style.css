@@ -1,1 +1,16 @@
+body {
+  background: green;
+  font-family: Arial;
+  color: #fff;
+  text-align: center;
+}
+h1 {
+  padding: 10px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+}
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
 
